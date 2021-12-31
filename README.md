@@ -1,2 +1,1 @@
 # fithealth
-fithealth project
